@@ -1,2 +1,1 @@
-# binary_trees
-ALX-Project Binary tree on C
+This is my README file
